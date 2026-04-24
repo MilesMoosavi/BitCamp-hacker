@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# ML/Data junk
+model/data/
+model/data.pickle
+model/model.p
+*.pkl
+*.p
+*.pickle
+*.h5
+
+# Agent logs
+.agents/
+session_handoff.md
